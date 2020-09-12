@@ -1,0 +1,344 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F36FFADC24F7E9CC0037F75E /* HJ6质数因子.m in Sources */ = {isa = PBXBuildFile; fileRef = F36FFADB24F7E9CC0037F75E /* HJ6质数因子.m */; };
+		F36FFADF24F80C9A0037F75E /* HJ7取近似值.m in Sources */ = {isa = PBXBuildFile; fileRef = F36FFADE24F80C9A0037F75E /* HJ7取近似值.m */; };
+		F36FFAE224F80E300037F75E /* HJ8合并表记录.m in Sources */ = {isa = PBXBuildFile; fileRef = F36FFAE124F80E300037F75E /* HJ8合并表记录.m */; };
+		F36FFAE524F945A90037F75E /* HJ13句子逆序.m in Sources */ = {isa = PBXBuildFile; fileRef = F36FFAE424F945A90037F75E /* HJ13句子逆序.m */; };
+		F36FFAE924F953CA0037F75E /* HJ17坐标移动.m in Sources */ = {isa = PBXBuildFile; fileRef = F36FFAE824F953CA0037F75E /* HJ17坐标移动.m */; };
+		F3A56BBA24F268A700730147 /* HJ5进制转换.m in Sources */ = {isa = PBXBuildFile; fileRef = F3A56BB924F268A700730147 /* HJ5进制转换.m */; };
+		F3E71A7F24F10A5500149994 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F3E71A7E24F10A5500149994 /* main.m */; };
+		F3E71A8724F10A8D00149994 /* HJ2计算字符个数.m in Sources */ = {isa = PBXBuildFile; fileRef = F3E71A8624F10A8D00149994 /* HJ2计算字符个数.m */; };
+		F3E71A8A24F161C300149994 /* HJ1 字符串最后一个单词的长度.m in Sources */ = {isa = PBXBuildFile; fileRef = F3E71A8924F161C300149994 /* HJ1 字符串最后一个单词的长度.m */; };
+		F3E71A8D24F1642100149994 /* HJ3明明的随机数.m in Sources */ = {isa = PBXBuildFile; fileRef = F3E71A8C24F1642100149994 /* HJ3明明的随机数.m */; };
+		F3E71A9024F172C300149994 /* HJ4 字符串分隔.m in Sources */ = {isa = PBXBuildFile; fileRef = F3E71A8F24F172C300149994 /* HJ4 字符串分隔.m */; };
+		F3F1D82F24FA9CE7007B09CD /* HJ18 识别有效的IP地址和掩码并进行分类统计.m in Sources */ = {isa = PBXBuildFile; fileRef = F3F1D82E24FA9CE7007B09CD /* HJ18 识别有效的IP地址和掩码并进行分类统计.m */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		F3E71A7924F10A5500149994 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = /usr/share/man/man1/;
+			dstSubfolderSpec = 0;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 1;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		F36FFADA24F7E9CC0037F75E /* HJ6质数因子.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HJ6质数因子.h"; sourceTree = "<group>"; };
+		F36FFADB24F7E9CC0037F75E /* HJ6质数因子.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "HJ6质数因子.m"; sourceTree = "<group>"; };
+		F36FFADD24F80C9A0037F75E /* HJ7取近似值.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HJ7取近似值.h"; sourceTree = "<group>"; };
+		F36FFADE24F80C9A0037F75E /* HJ7取近似值.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "HJ7取近似值.m"; sourceTree = "<group>"; };
+		F36FFAE024F80E300037F75E /* HJ8合并表记录.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HJ8合并表记录.h"; sourceTree = "<group>"; };
+		F36FFAE124F80E300037F75E /* HJ8合并表记录.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "HJ8合并表记录.m"; sourceTree = "<group>"; };
+		F36FFAE324F945A90037F75E /* HJ13句子逆序.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HJ13句子逆序.h"; sourceTree = "<group>"; };
+		F36FFAE424F945A90037F75E /* HJ13句子逆序.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "HJ13句子逆序.m"; sourceTree = "<group>"; };
+		F36FFAE724F953CA0037F75E /* HJ17坐标移动.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HJ17坐标移动.h"; sourceTree = "<group>"; };
+		F36FFAE824F953CA0037F75E /* HJ17坐标移动.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "HJ17坐标移动.m"; sourceTree = "<group>"; };
+		F3A56BB824F268A700730147 /* HJ5进制转换.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HJ5进制转换.h"; sourceTree = "<group>"; };
+		F3A56BB924F268A700730147 /* HJ5进制转换.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "HJ5进制转换.m"; sourceTree = "<group>"; };
+		F3E71A7B24F10A5500149994 /* 华为机试 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "华为机试"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F3E71A7E24F10A5500149994 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F3E71A8524F10A8D00149994 /* HJ2计算字符个数.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HJ2计算字符个数.h"; sourceTree = "<group>"; };
+		F3E71A8624F10A8D00149994 /* HJ2计算字符个数.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "HJ2计算字符个数.m"; sourceTree = "<group>"; };
+		F3E71A8824F161C300149994 /* HJ1 字符串最后一个单词的长度.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HJ1 字符串最后一个单词的长度.h"; sourceTree = "<group>"; };
+		F3E71A8924F161C300149994 /* HJ1 字符串最后一个单词的长度.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "HJ1 字符串最后一个单词的长度.m"; sourceTree = "<group>"; };
+		F3E71A8B24F1642100149994 /* HJ3明明的随机数.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HJ3明明的随机数.h"; sourceTree = "<group>"; };
+		F3E71A8C24F1642100149994 /* HJ3明明的随机数.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "HJ3明明的随机数.m"; sourceTree = "<group>"; };
+		F3E71A8E24F172C300149994 /* HJ4 字符串分隔.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HJ4 字符串分隔.h"; sourceTree = "<group>"; };
+		F3E71A8F24F172C300149994 /* HJ4 字符串分隔.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "HJ4 字符串分隔.m"; sourceTree = "<group>"; };
+		F3F1D82D24FA9CE7007B09CD /* HJ18 识别有效的IP地址和掩码并进行分类统计.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "HJ18 识别有效的IP地址和掩码并进行分类统计.h"; sourceTree = "<group>"; };
+		F3F1D82E24FA9CE7007B09CD /* HJ18 识别有效的IP地址和掩码并进行分类统计.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "HJ18 识别有效的IP地址和掩码并进行分类统计.m"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F3E71A7824F10A5500149994 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F3E71A7224F10A5500149994 = {
+			isa = PBXGroup;
+			children = (
+				F3E71A7D24F10A5500149994 /* 华为机试 */,
+				F3E71A7C24F10A5500149994 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F3E71A7C24F10A5500149994 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F3E71A7B24F10A5500149994 /* 华为机试 */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F3E71A7D24F10A5500149994 /* 华为机试 */ = {
+			isa = PBXGroup;
+			children = (
+				F3E71A7E24F10A5500149994 /* main.m */,
+				F3F1D82D24FA9CE7007B09CD /* HJ18 识别有效的IP地址和掩码并进行分类统计.h */,
+				F3F1D82E24FA9CE7007B09CD /* HJ18 识别有效的IP地址和掩码并进行分类统计.m */,
+				F36FFAE724F953CA0037F75E /* HJ17坐标移动.h */,
+				F36FFAE824F953CA0037F75E /* HJ17坐标移动.m */,
+				F36FFAE324F945A90037F75E /* HJ13句子逆序.h */,
+				F36FFAE424F945A90037F75E /* HJ13句子逆序.m */,
+				F36FFAE024F80E300037F75E /* HJ8合并表记录.h */,
+				F36FFAE124F80E300037F75E /* HJ8合并表记录.m */,
+				F36FFADD24F80C9A0037F75E /* HJ7取近似值.h */,
+				F36FFADE24F80C9A0037F75E /* HJ7取近似值.m */,
+				F36FFADA24F7E9CC0037F75E /* HJ6质数因子.h */,
+				F36FFADB24F7E9CC0037F75E /* HJ6质数因子.m */,
+				F3A56BB824F268A700730147 /* HJ5进制转换.h */,
+				F3A56BB924F268A700730147 /* HJ5进制转换.m */,
+				F3E71A8E24F172C300149994 /* HJ4 字符串分隔.h */,
+				F3E71A8F24F172C300149994 /* HJ4 字符串分隔.m */,
+				F3E71A8B24F1642100149994 /* HJ3明明的随机数.h */,
+				F3E71A8C24F1642100149994 /* HJ3明明的随机数.m */,
+				F3E71A8524F10A8D00149994 /* HJ2计算字符个数.h */,
+				F3E71A8624F10A8D00149994 /* HJ2计算字符个数.m */,
+				F3E71A8824F161C300149994 /* HJ1 字符串最后一个单词的长度.h */,
+				F3E71A8924F161C300149994 /* HJ1 字符串最后一个单词的长度.m */,
+			);
+			path = "华为机试";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F3E71A7A24F10A5500149994 /* 华为机试 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F3E71A8224F10A5500149994 /* Build configuration list for PBXNativeTarget "华为机试" */;
+			buildPhases = (
+				F3E71A7724F10A5500149994 /* Sources */,
+				F3E71A7824F10A5500149994 /* Frameworks */,
+				F3E71A7924F10A5500149994 /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "华为机试";
+			productName = "华为机试";
+			productReference = F3E71A7B24F10A5500149994 /* 华为机试 */;
+			productType = "com.apple.product-type.tool";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F3E71A7324F10A5500149994 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 1160;
+				ORGANIZATIONNAME = ZH;
+				TargetAttributes = {
+					F3E71A7A24F10A5500149994 = {
+						CreatedOnToolsVersion = 11.6;
+					};
+				};
+			};
+			buildConfigurationList = F3E71A7624F10A5500149994 /* Build configuration list for PBXProject "华为机试" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F3E71A7224F10A5500149994;
+			productRefGroup = F3E71A7C24F10A5500149994 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F3E71A7A24F10A5500149994 /* 华为机试 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F3E71A7724F10A5500149994 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3A56BBA24F268A700730147 /* HJ5进制转换.m in Sources */,
+				F36FFAE924F953CA0037F75E /* HJ17坐标移动.m in Sources */,
+				F36FFAE524F945A90037F75E /* HJ13句子逆序.m in Sources */,
+				F3F1D82F24FA9CE7007B09CD /* HJ18 识别有效的IP地址和掩码并进行分类统计.m in Sources */,
+				F3E71A8D24F1642100149994 /* HJ3明明的随机数.m in Sources */,
+				F3E71A8A24F161C300149994 /* HJ1 字符串最后一个单词的长度.m in Sources */,
+				F36FFADC24F7E9CC0037F75E /* HJ6质数因子.m in Sources */,
+				F36FFADF24F80C9A0037F75E /* HJ7取近似值.m in Sources */,
+				F3E71A7F24F10A5500149994 /* main.m in Sources */,
+				F36FFAE224F80E300037F75E /* HJ8合并表记录.m in Sources */,
+				F3E71A8724F10A8D00149994 /* HJ2计算字符个数.m in Sources */,
+				F3E71A9024F172C300149994 /* HJ4 字符串分隔.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		F3E71A8024F10A5500149994 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx;
+			};
+			name = Debug;
+		};
+		F3E71A8124F10A5500149994 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.15;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = macosx;
+			};
+			name = Release;
+		};
+		F3E71A8324F10A5500149994 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		F3E71A8424F10A5500149994 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F3E71A7624F10A5500149994 /* Build configuration list for PBXProject "华为机试" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3E71A8024F10A5500149994 /* Debug */,
+				F3E71A8124F10A5500149994 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F3E71A8224F10A5500149994 /* Build configuration list for PBXNativeTarget "华为机试" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3E71A8324F10A5500149994 /* Debug */,
+				F3E71A8424F10A5500149994 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F3E71A7324F10A5500149994 /* Project object */;
+}

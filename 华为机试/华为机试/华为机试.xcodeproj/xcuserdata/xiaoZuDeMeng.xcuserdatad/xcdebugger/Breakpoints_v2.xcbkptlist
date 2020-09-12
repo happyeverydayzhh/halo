@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "3D1F438E-702E-4CA7-941D-08EC493D2B03"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16D5A9E7-3CAC-4191-BC8B-0CBD6B964241"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "&#x534e;&#x4e3a;&#x673a;&#x8bd5;/HJ18 &#x8bc6;&#x522b;&#x6709;&#x6548;&#x7684;IP&#x5730;&#x5740;&#x548c;&#x63a9;&#x7801;&#x5e76;&#x8fdb;&#x884c;&#x5206;&#x7c7b;&#x7edf;&#x8ba1;.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "124"
+            endingLineNumber = "124"
+            landmarkName = "+validIPAddress"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

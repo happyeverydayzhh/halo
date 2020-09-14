@@ -30,14 +30,6 @@ $ cat .gitignore
      git rm -f filename 删除之前修改过，或者已经暂存
      git rm --cached filename 从暂存区删除，但仍保存在工作目录中
      
-     移动文件：
-     git mv file_from file_to
-     
-     运行 git mv 就相当于运行了下面三条命令：
-     $ mv README.md README
-     $ git rm README.md
-     $ git add README
-     
 8、取消操作
      git commit --amend
      
@@ -48,9 +40,5 @@ $ cat .gitignore
      最终你只会有一个提交——第二次提交将代替第一次提交的结果。
      
 9、取消暂存的文件
-      git reset HEAD <file>
-      
-10、撤销对文件的修改（！！！危险操作）
-      git checkout -- <file> 
 
 

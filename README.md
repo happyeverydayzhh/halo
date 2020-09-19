@@ -1,5 +1,5 @@
 # halo
-<<<<<<< HEAD
+
 git 命令总结:
 1、echo 新建文件(新建README文件，并在文件中写入My Project)
 $ echo 'My Project' > README
@@ -54,6 +54,5 @@ $ cat .gitignore
 10、撤销对文件的修改（！！！危险操作）
       git checkout -- <file> 
 
-
-=======
->>>>>>> 16b8c654ae38be1d4b9281001db3bc3f4b099404
+11、删除pod库
+     pod repo remove ZHBase 

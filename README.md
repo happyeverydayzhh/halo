@@ -26,6 +26,8 @@ $ cat .gitignore
 5、touch file 新建文件; vi file 编辑文件（如果没有file，则新建file）
 
 6、rm file 移除文件
+     
+   rm -rf filePath 删除文件夹
 
 7、git rm filename 从Git移除某个文件
      git rm -f filename 删除之前修改过，或者已经暂存
